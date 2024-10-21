@@ -1,5 +1,5 @@
 {
-  "name": "@appfolio/react-native-upload",
+  "name": "react-native-background-upload",
   "version": "6.15.0",
   "description": "Cross platform http post file uploader with Android and iOS background support.",
   "main": "src/index.js",
